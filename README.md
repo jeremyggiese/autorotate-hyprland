@@ -1,4 +1,4 @@
-## autorotate-hyprland
+## autorotate-hyprland Updated for 0.55, must update reference for touch device from hyprctl!!!
 
 🔄 Automatic display rotation for Hyprland based on accelerometer input - perfect for tablets and convertible laptops!
 
